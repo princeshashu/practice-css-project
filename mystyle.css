@@ -1,0 +1,50 @@
+
+   body {
+
+     color: white; 
+     background-image: url(sunset.jpeg);
+     background-repeat: no-repeat; background-size: cover;
+
+
+   }
+
+   div {
+    font-size: 70px;
+    border-style: solid;
+    border-width: 8px;
+    background-color: aqua;
+    border-radius: 10px;
+    color: yellow;
+
+    margin-left: 80px;
+    margin-top: 80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+
+    /* margin: 80px;
+    padding: 30px; */
+
+    
+    /* outline-style: dashed;
+    outline-width: 20px;
+    outline-color: red;
+    outline-offset: 10px; */
+   
+   }
+
+   h1 {
+    background-color: green;
+   }
+
+   p1 {
+    background-color:rgba(255,0,0,0.3)
+   }
+
+   span {
+    background-color: hsl(50,100%,50%);
+   }
